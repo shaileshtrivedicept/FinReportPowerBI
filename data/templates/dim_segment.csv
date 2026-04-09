@@ -1,0 +1,8 @@
+Segment,Segment_Group,Sort_Order
+Core Advisory,Operations,1
+PMU,Operations,2
+Testing,Operations,3
+Conference,Operations,4
+Grant,Funding,5
+Centre Aggregate,Reporting,6
+Entity Aggregate,Reporting,7

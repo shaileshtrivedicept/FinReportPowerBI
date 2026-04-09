@@ -1,0 +1,4 @@
+Record_Type,Description,Sort_Order
+Segment_Row,Data at segment level,1
+Centre_Row,Data at centre level,2
+Entity_Row,Data at entity level,3

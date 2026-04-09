@@ -1,0 +1,5 @@
+Revenue_Type,Revenue_Group,Sort_Order
+Earned Fees,Operating,1
+Grant,Operating,2
+Fund Transfer,Non-Operating,3
+Total Turnover,Total,4

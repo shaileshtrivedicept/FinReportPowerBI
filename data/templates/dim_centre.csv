@@ -1,0 +1,12 @@
+Centre,Centre_Group,Active_Flag,Sort_Order
+CUPP,Program,Y,1
+CARBSE,Program,Y,2
+CWAS,Program,Y,3
+CEI,Program,Y,4
+CHC,Program,Y,5
+CAG,Program,Y,6
+CAU,Program,Y,7
+CoEUT,Program,Y,8
+HO,Support,Y,9
+Legacy,Historical,N,10
+Other,Miscellaneous,Y,11

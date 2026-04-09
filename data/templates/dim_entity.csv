@@ -1,0 +1,4 @@
+Entity,Entity_Group,Sort_Order
+CRDF,Individual,1
+CAF,Individual,2
+Combined,Group,3
